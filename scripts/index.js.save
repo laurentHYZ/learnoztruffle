@@ -1,0 +1,2 @@
+const accounts = await ethers.provider.listAccounts();
+console.log(accounts);
